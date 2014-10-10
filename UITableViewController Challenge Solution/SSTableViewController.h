@@ -1,5 +1,5 @@
 //
-//  SSViewController.h
+//  SSTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Sawant Shah on 10/10/2014.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SSViewController : UIViewController
+@interface SSTableViewController : UITableViewController
 
 @end
